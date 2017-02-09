@@ -7,6 +7,6 @@ simple js script for automatic adding contacts
 * Go to this page, previously entered into [linkedIn/mynetwork](https://www.linkedin.com/mynetwork/)
 * Press the following key combination:
 Ctrl + Shift + I
-* Insert the console javascript code available on this page [github/linkedinBot](https://github.com/snmslavk/linkedin-bot/blob/master/main-script.js)
+* Insert the console javascript code available on this page [script](https://github.com/snmslavk/linkedin-bot/blob/master/main-script.js)
 
 This script is just slightly modified, originally it is from [here](https://github.com/Kravalg/linkedin-bot)
