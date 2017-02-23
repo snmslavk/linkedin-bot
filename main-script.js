@@ -1,5 +1,5 @@
 var countOfPagesScrolled = 0;
-var searchPhrase = "HR";
+var searchPhrase = "Developer";
 
 function scrollDown(height, countOfPagesScrolled){
 	scroll(0, document.body.clientHeight);
