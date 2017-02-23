@@ -9,8 +9,10 @@ simple js script for automatic adding contacts
 Ctrl + Shift + I
 * Insert the console javascript code available on this page [script](https://github.com/snmslavk/linkedin-bot/blob/master/main-script.js)
 * Change values of these variables
-var countOfPagesScrolled = 0; // A number of scrolls that script should perform
-var searchPhrase = "Developer"; //Keyword that will be used in your selection
+```javascript
+      var countOfPagesScrolled = 0; // A number of scrolls that script should perform
+      var searchPhrase = "Developer"; //Keyword that will be used in your selection
+```
 
 This script is just slightly modified, originally it is from [here](https://github.com/Kravalg/linkedin-bot)
 
