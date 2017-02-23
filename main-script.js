@@ -22,7 +22,7 @@ function sendRequest(){
 					if (allInf.indexOf(searchPhrase) >= 0){
 						console.log($("#ember"+(this.value-4)).text());
 						contactsNum++;
-						//$(this).click();
+						$(this).click();
 					}
 				    }
 			    }
