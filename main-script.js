@@ -13,7 +13,7 @@ function scrollDown(height, countOfPagesScrolled){
 
 function sendRequest(){
 	var contactsNum = 0;
-	jQuery.each( $('div.mn-person-card__card-actions button.mn-person-card__person-btn-ext'), 	function() {
+	$.each( $('div.mn-person-card__card-actions button.mn-person-card__person-btn-ext'), 	function() {
 		$(this).each(function() {
 			  $.each(this.attributes, function() {
 			    if(this.specified) {
