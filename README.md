@@ -1,7 +1,7 @@
 # linkedin-bot
 simple js script for automatic adding contacts
 
-![linkedin-bot](https://github.com/snmslavk/linkedin-bot/blob/master/b7f6ca42f44f684341ae93781cf208a2.gif)
+![linkedin-bot](https://raw.githubusercontent.com/snmslavk/linkedin-bot/master/images/b7f6ca42f44f684341ae93781cf208a2.gif)
 
 # How to use?
 * Go to this page, previously entered into [linkedIn/mynetwork](https://www.linkedin.com/mynetwork/)
